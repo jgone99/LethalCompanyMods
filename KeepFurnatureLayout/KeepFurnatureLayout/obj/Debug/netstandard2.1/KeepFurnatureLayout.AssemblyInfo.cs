@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KeepFurnatureLayout")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20dc577e0c397b3ef93a1cb6a70ab15b21deaf0b")]
 [assembly: System.Reflection.AssemblyProductAttribute("KeepFurnatureLayout")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KeepFurnatureLayout")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

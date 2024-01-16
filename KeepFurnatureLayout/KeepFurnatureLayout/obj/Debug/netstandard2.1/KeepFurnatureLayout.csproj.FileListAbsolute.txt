@@ -114,3 +114,4 @@ C:\Users\Josh\Documents\LethalCompanyMods\KeepFurnatureLayout\KeepFurnatureLayou
 C:\Users\Josh\Documents\LethalCompanyMods\KeepFurnatureLayout\KeepFurnatureLayout\obj\Debug\netstandard2.1\KeepFurnatureLayout.csproj.CopyComplete
 C:\Users\Josh\Documents\LethalCompanyMods\KeepFurnatureLayout\KeepFurnatureLayout\obj\Debug\netstandard2.1\KeepFurnatureLayout.dll
 C:\Users\Josh\Documents\LethalCompanyMods\KeepFurnatureLayout\KeepFurnatureLayout\obj\Debug\netstandard2.1\KeepFurnatureLayout.pdb
+C:\Users\Josh\Documents\LethalCompanyMods\KeepFurnatureLayout\KeepFurnatureLayout\obj\Debug\netstandard2.1\KeepFurnatureLayout.sourcelink.json
